@@ -3,7 +3,7 @@
 welcome to Team Arcane's repository!
 
 Collaborator: 
-Fuwei Zhuang: 19fz2@queensu.ca
+Fuwei Zhuang: 19fz2@queensu.ca /n
 Benjamin Hui: 18bh13@queensu.ca
 Hudson: 18hc41@queensu.ca
 Wanqing Li: 18wl19@queensu.ca
