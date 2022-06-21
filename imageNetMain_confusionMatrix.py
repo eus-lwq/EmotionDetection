@@ -420,7 +420,7 @@ def validate(val_loader, model, criterion, args):
                     'Sad', 'Surprise')
 
         # Build confusion matrix
-        cf_matrix = confusion_matrix(y_true, y_pred)
+        cf_matrix = confusion_matrix(y_true, y_pred, normalize='true')
         df_cm = pd.DataFrame(cf_matrix/np.sum(cf_matrix) *7, index = [i for i in classes],
                                     columns = [i for i in classes])
         plt.figure(figsize = (12,7))
