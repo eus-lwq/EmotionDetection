@@ -1,6 +1,4 @@
 ## Emotion Detection - Team Arcane
-
-
 welcome to Team Arcane's Emotion Detection repository! <br />
 <br />
 
@@ -27,9 +25,9 @@ python ImageNetMain.py -a resnet18 ckplus_add/Emotion_image_Dataset --gpu 0 --ba
 
 ## Dataset and Model information
 **Dataset:** FER2013  https://paperswithcode.com/dataset/fer2013 <br />
-[Dataset Distribution](https://postimg.cc/hXyZnDjm)
-[Dataset Example](https://i.postimg.cc/mgbx9ts8/Wechat-IMG3392.png)
-**Model:**  ResNet-18 https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
+[Dataset Distribution](https://postimg.cc/hXyZnDjm)  <br />
+[Dataset Example](https://i.postimg.cc/mgbx9ts8/Wechat-IMG3392.png)  <br />
+**Model:**  ResNet-18 https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf  <br />
 
 ## Contributors
 **Member:** <br />
