@@ -23,5 +23,8 @@ Pre-trained   True <br />
 **training accuracy:** 86% <br />
 **Validation accuracy:** 69% <br />
 
-paper reading related to dataset FER2013: https://cubic-umbra-9af.notion.site/Paper-Reading-f5cb46f6f86649cea67fe787251757df <br />
-Dataset: FER2013  https://paperswithcode.com/dataset/fer2013 <br />
+**How to validate our result?**
+python ImageNetMain.py -a resnet18 ckplus_add/Emotion_image_Dataset --gpu 0 --batch-size 128 --lr 0.001 --pretrained --epoch 90 | tee log.txt <br />
+
+**Dataset:** FER2013  https://paperswithcode.com/dataset/fer2013 <br />
+**Model:**  
