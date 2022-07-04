@@ -21,7 +21,8 @@ Pre-trained   True <br />
 **Validation accuracy:** 69% <br />
 
 **How to validate our result?** <br />
-python ImageNetMain.py -a resnet18 ckplus_add/Emotion_image_Dataset --gpu 0 --batch-size 128 --lr 0.001 --pretrained --epoch 90 | tee log.txt <br />
+download FER2013 dataset, then run this command after srun:  <br />
+python imageNetMain_confusionMatrix.py -a resnet18 FER2013 --gpu 0 --batch-size 128 --lr 0.001 --pretrained --epoch 90 | tee log.txt <br />
 
 ## Dataset and Model information
 **Dataset:** FER2013  https://paperswithcode.com/dataset/fer2013 <br />
