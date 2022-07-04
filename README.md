@@ -27,4 +27,4 @@ Pre-trained   True <br />
 python ImageNetMain.py -a resnet18 ckplus_add/Emotion_image_Dataset --gpu 0 --batch-size 128 --lr 0.001 --pretrained --epoch 90 | tee log.txt <br />
 
 **Dataset:** FER2013  https://paperswithcode.com/dataset/fer2013 <br />
-**Model:**  
+**Model:**  ResNet-18 https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
