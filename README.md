@@ -10,7 +10,7 @@ Mental health is an essential aspect of our lives as it affects our emotional, p
 Through this project, we aim to aid and enable professionals, experts, and maybe even ordinary people to analyze and hopefully assist in diagnosing people with mental health problems before it gets too severe.<br />
 
 
-**Best Parameter:** <br />
+##Best Parameter:
 Crop          224 <br />
 Batch Size    128 <br />
 Epoch         90 <br />
@@ -18,6 +18,7 @@ Learning Rate 0.001 <br />
 Converted     True #convert 1000 classes classification to 7 classes classification <br />
 Pre-trained   True <br />
 
+##Result:
 **training accuracy:** 86% <br />
 **Validation accuracy:** 69% <br />
 
