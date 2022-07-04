@@ -1,7 +1,10 @@
-# TeamArcane
+## Emotion Detection - Team Arcane
+
 
 welcome to Team Arcane's Emotion Detection repository! <br />
 <br />
+
+## Our Motivation
 Mental health is an essential aspect of our lives as it affects our emotional, psychological, and social well-being. Maintaining proper mental health can benefit us as it increases productivity, promotes self-confidence, and even improves relationships. Conversely, having bad mental health may lead to mental illnesses and may even be harmful to our bodies. <br />
 <br />
 Through this project, we aim to aid and enable professionals, experts, and maybe even ordinary people to analyze and hopefully assist in diagnosing people with mental health problems before it gets too severe.<br />
